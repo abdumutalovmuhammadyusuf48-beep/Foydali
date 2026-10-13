@@ -1,0 +1,6 @@
+{
+  "name": "Muxtasarul Viqoya",
+  "description": "Sadrush Shari'a Ubaydullah ibn Mas'udning 'Muxtasarul Viqoya' asari asosida 300+ batafsil fiqhiy testlar va islomiy o'quv dasturi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
